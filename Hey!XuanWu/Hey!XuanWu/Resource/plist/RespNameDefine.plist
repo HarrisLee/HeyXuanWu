@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainInfo</key>
+	<string>GetMainInfoRespBody</string>
+	<key>verifylogin</key>
+	<string>VerifyLoginRespBody</string>
+	<key>topDirectory</key>
+	<string>GetTopDirectoryRespBody</string>
+	<key>secondDirectory</key>
+	<string>GetSecondDirectoryRespBody</string>
+	<key>imgList</key>
+	<string>GetImgListRespBody</string>
+	<key>img</key>
+	<string>GetImgRespBody</string>
+	<key>imgComment</key>
+	<string>GetImgCommentRespBody</string>
+	<key>secondDirectoryOfTime</key>
+	<string>GetSecondDirectoryOfTimeRespBody</string>
+	<key>addGood</key>
+	<string>AddGoodRespBody</string>
+	<key>addComment</key>
+	<string>AddCommentRespBody</string>
+	<key>addSecondDirectory</key>
+	<string>AddSecondDirectoryRespBody</string>
+	<key>uploadFile</key>
+	<string>UploadFileRespBody</string>
+	<key>addAccount</key>
+	<string>AddAccountRespBody</string>
+	<key>addPeopleAccount</key>
+	<string>AddPeopleAccountRespBody</string>
+	<key>verifyOutsideLogin</key>
+	<string>VerifyOutsideLoginRespBody</string>
+	<key>addPeopleOpinion</key>
+	<string>AddPeopleOpinionRespBody</string>
+	<key>peopleOpinionList</key>
+	<string>GetPeopleOpinionListRespBody</string>
+	<key>addPeopleOpinionReturn</key>
+	<string>AddPeopleOpinionReturnRespBody</string>
+	<key>peopleOpinionReturn</key>
+	<string>GetPeopleOpinionReturnRespBody</string>
+	<key>getJob</key>
+	<string>GetJobRespBody</string>
+</dict>
+</plist>
